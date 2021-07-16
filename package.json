@@ -1,0 +1,23 @@
+{
+  "name": "taptagfinal",
+  "version": "1.0.0",
+  "description": "This is the final version of the taptag website that I will open through node.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JungminKim1101/taptagfinal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JungminKim1101/taptagfinal/issues"
+  },
+  "homepage": "https://github.com/JungminKim1101/taptagfinal#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
