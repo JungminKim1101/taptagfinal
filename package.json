@@ -18,6 +18,11 @@
   },
   "homepage": "https://github.com/JungminKim1101/taptagfinal#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "react-animated": "^0.1.0",
+    "react-bootstrap": "^1.6.1",
+    "react-icons": "^4.2.0",
+    "react-scroll-to-top": "^1.0.5",
+    "slider": "^1.0.4"
   }
 }
