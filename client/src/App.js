@@ -7,6 +7,7 @@ import background1 from "./image/1.png";
 import background2 from "./image/2.png";
 import background3 from "./image/3.png";
 import Slider from "react-animated-slider";
+import "bootstrap/dist/css/bootstrap.css";
 import OverlayTrigger from "react-bootstrap/OverlayTrigger";
 import Popover from "react-bootstrap/Popover";
 import "react-animated-slider/build/horizontal.css";
